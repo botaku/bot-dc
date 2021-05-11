@@ -1,0 +1,27 @@
+{
+  "name": "bot-dc",
+  "version": "2.0.7",
+  "description": "beta bot discord you can try this",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo invalid syntax"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botaku/bot-discord.git"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "gotha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botaku/bot-discord/issues"
+  },
+  "homepage": "https://github.com/botaku/bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}

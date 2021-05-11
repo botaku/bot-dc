@@ -1,0 +1,5 @@
+{
+    "token" : "your bot token",
+    "owners"  : ["owners/your id in discord"],
+    "prefix" : "/"
+}
